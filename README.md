@@ -14,8 +14,3 @@ In linux to compile the file simply type in the terminal `gcc slave.c -o slave` 
 
 in windows you need to download one, I use [winlibs](https://winlibs.com)
 then add it to your path, and run `gcc slave.c -o slave.exe` then run `slave.exe`  
-
-
-Youtube showcase of the executable:
-
-[Github Demo.mp4](Github demo.mp4)
