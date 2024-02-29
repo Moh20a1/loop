@@ -13,4 +13,9 @@ open the "slave.c" file and modify it your liking, to compile you need a C compi
 In linux to compile the file simply type in the terminal `gcc slave.c -o slave` then run `./slave`.  
 
 in windows you need to download one, I use [winlibs](https://winlibs.com)
-then add it to your path, and run `gcc slave.c -o slave.exe` then run `slave.exe`
+then add it to your path, and run `gcc slave.c -o slave.exe` then run `slave.exe`  
+
+
+Youtube showcase of the executable:
+
+https://youtu.be/LL13UmOUz4o
