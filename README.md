@@ -18,4 +18,4 @@ then add it to your path, and run `gcc slave.c -o slave.exe` then run `slave.exe
 
 Youtube showcase of the executable:
 
-[https://youtu.be/LL13UmOUz4o](https://youtu.be/LL13UmOUz40)
+(Github Demo.mp4)
