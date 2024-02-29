@@ -4,11 +4,11 @@ This is a repo for my simple file + executable that adds one till hundred thousa
 Plus it is under the MIT license, because why not  
 ---  
 How to copy,
-Go press the green button, then download zip, if you have git then  
+Go press the green button, then download the zip, if you have git then  
 `git clone https://github.com/moh20a1/loop`  
 ---  
 How to modifiy,
-open the "slave.c" file and modifiy it your liking, to compile you need a C compiler.  
+open the "slave.c" file and modify it your liking, to compile you need a C compiler.  
 
 In linux to compile the file simply type in the terminal `gcc slave.c -o slave` then run `./slave`.  
 
